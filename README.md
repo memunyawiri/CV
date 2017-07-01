@@ -21,9 +21,11 @@ I have learnt to meditate, organise and move on and I plan to incorporate my gro
 
 From my time studying, to my last role, I have always taken an analytical approach to building strategy, creating & testing and have always considered the range of relevant factors before taking next steps.
 
-- Considering short-long term performance and other business development/ changes, I created a new and successful strategy for marketing to design students, whilst working at MOO.COM
+**An example of my Analytical skills put to good use:**
+
+- Whilst working at MOO.COM, I considered short-long term performance data and other business development/ change to create a new and successful strategy for marketing to design students, also known as "Summer's most important customers"
 - I contributed to the significant growth of the student customer-base, YoY, two years in a row
-- As well as executing design-lead cross-department campaigns, I also designed and implemented design-study-specific landing pages that took into consideration; relevant PPC and on-site search terms, SEO bugs and web-merchandising opportunities.
+- As well as executing design-lead cross-department campaigns, I also designed and implemented design-study-specific landing pages that were influenced by the relevant PPC and on-site search terms, SEO bugs and web-merchandising opportunities
 
 
 ## Education
@@ -37,28 +39,30 @@ From my time studying, to my last role, I have always taken an analytical approa
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### The Fashion Retail Academy (September 2010 to 2012)
+#### The Fashion Retail Academy (September 2010 - 2012)
 
-- Design & Business - Foundation Degree
+**Design & Business - Foundation Degree**
 - Graduated with Distinction across all modules
 - Whilst studying at the FRA, I was shortlisted and interned at the X-Factor live shows as a wardrobe assistant
 
-#### Additional Certifications
+## Additional Certifications
 
-**Google Adwords Fundamentals** (April 2015)
+- Google Adwords Fundamentals (April 2015)
 
-**Best STL - Advanced Excel** (April 2015)
+- Best STL - Advanced Excel (April 2015)
 
-**IAB UK - Digital Marketing Essentials** (October 2014)
+- IAB UK - Digital Marketing Essentials (October 2014)
 
 ## Experience
 
 **Freelance - Radar Radio/ IVAN/ MASESI LDN** (July 2015 - Present)    
-*Marketing consultant / Writer*
+- Marketing consultant / Writer
+
 **MOO.COM** (January 2014 - March 2016)    
-*International Digital Marketing Associate*  
+- International Digital Marketing Associate 
+
 **Michael Kors** (November 2012 - October 2013)   
-*International Marketing Assistant*  
+- International Marketing Assistant  
 
 ## Hobbies and Interests
 - **Baking** : I am business partners with my sister, she started a gluten free and dairy free baked goods pop-up called Masesi in July 2015, which had stands at a variety of popular London Food Markets as well as having a stand at SS17 Fashion Week. She's since up and shipped the business to South Africa, but I still bake cakes for family, friends and neighbours every month.
