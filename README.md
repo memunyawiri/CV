@@ -3,7 +3,7 @@
 
 ## Mutsa Munyawiri
 
-I have a professional approach to all my work; I have great interpersonal skills and effective planning and conformity to recognized standards in a variety of areas. I've had the pleasure of building on and growing my range of Marketing skills as well as producing actionable insights and results across the Fashion, Music and Business Services industries. Whilst working as a marketer, I had the pleasure of working very closely with the Technology, UI & UX teams within the business and spent some time learning how to create and modify templates in basic HTML. I am now looking to explore the possibilities of becoming a creative and technological individual who spends their working days creating, testing, and solving technical problems whilst consistently improving my methodical skills.
+I have a professional approach to all my work; I have great interpersonal skills and effective planning and conformity to recognized standards in a variety of areas. I've had the pleasure of building on and growing my range of Marketing skills as well as producing actionable insights and results across the Fashion, Music and Business Services industries. Whilst working as a marketer, I had the pleasure of working very closely with Tech, UI & UX teams and spent a couple of days a week learning how to create and modify templates in basic HTML. I am now working towards becoming a creative and tech-centric individual, who spends time creating, testing, and solving problems whilst consistently improving my methodical skills.
 
 ## Skills
 
@@ -56,13 +56,13 @@ From my time studying, to my last role, I have always taken an analytical approa
 ## Experience
 
 **Freelance - Radar Radio/ IVAN/ MASESI LDN** (July 2015 - Present)    
-- Marketing consultant / Writer
+Marketing consultant / Writer
 
 **MOO.COM** (January 2014 - March 2016)    
-- International Digital Marketing Associate 
+International Digital Marketing Associate 
 
 **Michael Kors** (November 2012 - October 2013)   
-- International Marketing Assistant  
+International Marketing Assistant  
 
 ## Hobbies and Interests
 - **Baking** : I am business partners with my sister, she started a gluten free and dairy free baked goods pop-up called Masesi in July 2015, which had stands at a variety of popular London Food Markets as well as having a stand at SS17 Fashion Week. She's since up and shipped the business to South Africa, but I still bake cakes for family, friends and neighbours every month.
