@@ -1,48 +1,66 @@
-## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/mutsa-munyawiri-44873362) | [Contently](http://mutsamunyawiri.contently.com)
+
+## Mutsa Munyawiri
+
+I have a professional approach to all my work; I have great interpersonal skills and effective planning and conformity to recognized standards in a variety of areas. I've had the pleasure of building on and growing my range of Marketing skills as well as producing actionable insights and results across the Fashion, Music and Business Services industries. Whilst working as a marketer, I had the pleasure of working very closely with the Technology, UI & UX teams within the business and spent some time learning how to create and modify templates in basic HTML. I am now looking to explore the possibilities of becoming a creative and technological individual who spends their working days creating, testing, and solving technical problems whilst consistently improving my methodical skills.
 
 ## Skills
 
-#### This Skill
+#### Strategic
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+In my previous roles, I was taught to be strategic, be it from a theoretically or practically. 
+With coding, I can tell that my strategical skills will be put to work and I look forward to adapting them to the new environment.
 
-- Experience
-- Achievements
-- Evidence
+#### Working Well Under Pressure
 
-#### Another Skill
+I've only ever known how to work under pressure and so it has become the environment in which I thrive in. 
+I have learnt to meditate, organise and move on and I plan to incorporate my growing methodical and organisational skills to help strengthen this skill.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Analytical
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+From my time studying, to my last role, I have always taken an analytical approach to building strategy, creating & testing and have always considered the range of relevant factors before taking next steps.
+
+- Considering short-long term performance and other business development/ changes, I created a new and successful strategy for marketing to design students, whilst working at MOO.COM
+- I contributed to the significant growth of the student customer-base, YoY, two years in a row
+- As well as executing design-lead cross-department campaigns, I also designed and implemented design-study-specific landing pages that took into consideration; relevant PPC and on-site search terms, SEO bugs and web-merchandising opportunities.
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2017 - September 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### The Fashion Retail Academy (September 2010 to 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Design & Business - Foundation Degree
+- Graduated with Distinction across all modules
+- Whilst studying at the FRA, I was shortlisted and interned at the X-Factor live shows as a wardrobe assistant
 
-#### Any other qualifications
+#### Additional Certifications
+
+**Google Adwords Fundamentals** (April 2015)
+
+**Best STL - Advanced Excel** (April 2015)
+
+**IAB UK - Digital Marketing Essentials** (October 2014)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Freelance - Radar Radio/ IVAN/ MASESI LDN** (July 2015 - Present)    
+*Marketing consultant / Writer*
+**MOO.COM** (January 2014 - March 2016)    
+*International Digital Marketing Associate*  
+**Michael Kors** (November 2012 - October 2013)   
+*International Marketing Assistant*  
+
+## Hobbies and Interests
+- **Baking** : I am business partners with my sister, she started a gluten free and dairy free baked goods pop-up called Masesi in July 2015, which had stands at a variety of popular London Food Markets as well as having a stand at SS17 Fashion Week. She's since up and shipped the business to South Africa, but I still bake cakes for family, friends and neighbours every month.
+- **Sewing** : I've been pinning, sewing and altering garments since I was about 9 and I haven't stopped since. Every year, I choose my favourite runway or trend piece and re-create it. I also designed, created and altered wardrobe items in BAFTA nominated short **[Sea View](http://vimeo.com/79130177)**
+- **Writing** : I'm not an expert writer, but I still love to write, mostly about design, menswear and sneaker trends.
