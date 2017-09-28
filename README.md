@@ -11,7 +11,7 @@ For a complete list, see my [Github](https://github.com/memunyawiri).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Commandos](https://github.com/memunyawiri/commandos) | This was my final project at Makers Academy, which I worked on with four other students in my cohort. Commandos is a unique command line tool and learning aid that monitors commands entered into the bash terminal and suggests helpful tips based on the user's activity.| Ruby, Bash, RSpec, Aruba.
+| [Commandos](https://github.com/memunyawiri/commandos) | This was my final project at Makers Academy, which I worked on with four other students in my cohort. Commandos is a unique command line tool and learning aid that monitors commands entered into the bash terminal and suggests helpful tips based on the user's activity.| Ruby, Bash, RSpec, Aruba
 | [Love me Tinder](https://github.com/memunyawiri/love-me-tinder) | I spent four days, working within a team of six to create this dating simulator / relationship compatibility game. | Ruby, Rails, Travis CI, PostgreSQL, CSS & Bootstrap, RSpec, JavaScript & Jasmine |
 | [Acebook](https://github.com/memunyawiri/acebook-remote-july-2017) | Our international cohort of 12 programmers from 4 countries working in 2 timezones spent a week making this clone of a popular social media website.  | Ruby/Rails, RSpec, Capybara, Postgres, Devise, AWS S3 |
 | [Chitter](https://github.com/memunyawiri/chitter-challenge) | Following an introduction to creating Sinatra apps, were given a weekend challenge to build a Twitter clone. | Ruby, RSpec, PostgreSQL, Data Mapper, Database Cleaner, Capybara, Sinatra|
