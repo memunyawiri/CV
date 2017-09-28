@@ -5,6 +5,18 @@
 
 I have a professional approach to all my work; I have great interpersonal skills and effective planning and conformity to recognized standards in a variety of areas. I've had the pleasure of building on and growing my range of Marketing skills as well as producing actionable insights and results across the Fashion, Music and Business Services industries. Whilst working as a marketer, I had the pleasure of working very closely with Tech, UI & UX teams and spent a couple of days a week learning how to create and modify templates in basic HTML. I am now working towards becoming a creative and tech-centric individual, who spends time creating, testing, and solving problems whilst consistently improving my methodical skills.
 
+## Projects
+
+For a complete list, see my [Github](https://github.com/memunyawiri).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Commandos](https://github.com/memunyawiri/commandos) | This was my final project at Makers Academy, which I worked on with four other students in my cohort. Commandos is a unique command line tool and learning aid that monitors commands entered into the bash terminal and suggests helpful tips based on the user's activity.| Ruby, Bash, RSpec, Aruba.
+| [Love me Tinder](https://github.com/memunyawiri/love-me-tinder) | I spent four days, working within a team of 6 to create this dating simulator / relationship compatibility game. | Ruby, Rails, Travis CI, PostgreSQL, CSS & Bootstrap, RSpec, JavaScript & Jasmine |
+| [Acebook](https://github.com/memunyawiri/acebook-remote-july-2017) | Our international cohort of 12 programmers from 4 countries working in 2 timezones spent a week making this clone of a popular social media website.  | Ruby/Rails, RSpec, Capybara, Postgres, Devise, AWS S3 |
+| [Chitter](https://github.com/memunyawiri/chitter-challenge) | Following an introduction to creating Sinatra apps, were given a weekend challenge to build a Twitter clone. | Ruby, RSpec, PostgreSQL, Data Mapper, Database Cleaner, Capybara, Sinatra|
+
+
 ## Skills
 
 #### Strategic
@@ -32,12 +44,10 @@ From my time studying, to my last role, I have always taken an analytical approa
 
 #### Makers Academy (July 2017 - September 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, JavaScript, PostgreSQL, Sinatra
+- Rspec, Jasmine, Mocha, Capybara
 
 #### The Fashion Retail Academy (September 2010 - 2012)
 
