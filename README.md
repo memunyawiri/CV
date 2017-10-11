@@ -1,5 +1,5 @@
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/mutsa-munyawiri-44873362) | [Contently](http://mutsamunyawiri.contently.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/mutsa-munyawiri-44873362) | [Contently](http://mutsamunyawiri.contently.com)
 
 ## Mutsa Munyawiri
 
@@ -21,8 +21,8 @@ For a complete list, see my [Github](https://github.com/memunyawiri).
 
 #### Strategic
 
-In my previous roles, I was taught to be strategic, be it from a theoretically or practically. 
-With coding, I can tell that my strategical skills will be put to work and I look forward to adapting them to the new environment.
+In my previous roles, I was taught to be strategic, be it from a theoretical or practical standpoint. 
+With coding, I can tell that my strategical skills will be put to work and I look forward to adapting them to the new working and learning environment.
 
 #### Working Well Under Pressure
 
@@ -46,8 +46,11 @@ From my time studying, to my last role, I have always taken an analytical approa
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, PostgreSQL, Sinatra
-- Rspec, Jasmine, Mocha, Capybara
+- Ruby, Ruby on Rails, JavaScript, JavaScript, JQuery, Bash, Node.js
+- HTML, CSS, Express.js
+- PostgreSQL, DataMapper
+- Rspec, Aruba, Jasmine, Mocha, Chai, Capybara
+- Agile methodologies and XP values
 
 #### The Fashion Retail Academy (September 2010 - 2012)
 
