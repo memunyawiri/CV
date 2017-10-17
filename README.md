@@ -46,7 +46,7 @@ From my time studying, to my last role, I have always taken an analytical approa
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Ruby on Rails, JavaScript, JavaScript, JQuery, Bash, Node.js
+- Ruby, Ruby on Rails, JavaScript, JQuery, Bash, Node.js
 - HTML, CSS, Express.js
 - PostgreSQL, DataMapper
 - Rspec, Aruba, Jasmine, Mocha, Chai, Capybara
