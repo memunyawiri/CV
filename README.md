@@ -3,7 +3,8 @@
 
 ## Mutsa Munyawiri
 
-I have a professional approach to all my work; I have great interpersonal skills and effective planning and conformity to recognized standards in a variety of areas. I've had the pleasure of building on and growing my range of Marketing skills as well as producing actionable insights and results across the Fashion, Music and Business Services industries. Whilst working as a marketer, I had the pleasure of working very closely with Tech, UI & UX teams and spent a couple of days a week learning how to create and modify templates in basic HTML. I am now working towards becoming a creative and tech-centric individual, who spends time creating, testing, and solving problems whilst consistently improving my methodical skills.
+Marketer turned Junior Developer. I’m passionate about problem solving, keen to be intellectually challenged and excited to find a role that will allow me to consolidate and extend my programming knowledge. I am a creative and curious individual who really enjoys working within a team, thinking up new ideas as well breaking existing things into little pieces and putting them back together in a more efficient way to make them work better.
+
 
 ## Projects
 
@@ -22,22 +23,25 @@ For a complete list, see my [Github](https://github.com/memunyawiri).
 #### Strategic
 
 In my previous roles, I was taught to be strategic, be it from a theoretical or practical standpoint. 
-With coding, I can tell that my strategical skills will be put to work and I look forward to adapting them to the new working and learning environment.
+With coding, I can tell that my strategical skills will be put to work and I look forward to building on them and adapting them to a new professional environment.
+
+#### Adaptable
+
+Working across a range of projects, within different teams, across a business with a wide variety of performance and organic channels is something I really enjoyed doing in my previous roles. I also had the pleasure of working with different groups of people with different skillsets, on a range of projects, at Makers and whilst this wasn't easy at first, I truly enjoyed being a part of a team that worked through team-related challenges to eventually work seamlessly.
 
 #### Working Well Under Pressure
 
 I've only ever known how to work under pressure and so it has become the environment in which I thrive in. 
-I have learnt to meditate, organise and move on and I plan to incorporate my growing methodical and organisational skills to help strengthen this skill.
+I have learnt to meditate, organise and move on and I plan to combine my growing methodical and organisational skills to help strengthen this skill.
 
 #### Analytical
 
 From my time studying, to my last role, I have always taken an analytical approach to building strategy, creating & testing and have always considered the range of relevant factors before taking next steps.
 
-**An example of my Analytical skills put to good use:**
+**An example of my Analytical skills within a professional environment:**
 
-- Whilst working at MOO.COM, I considered short-long term performance data and other business development/ change to create a new and successful strategy for marketing to design students, also known as "Summer's most important customers"
-- I contributed to the significant growth of the student customer-base, YoY, two years in a row
-- As well as executing design-lead cross-department campaigns, I also designed and implemented design-study-specific landing pages that were influenced by the relevant PPC and on-site search terms, SEO bugs and web-merchandising opportunities
+- Whilst working at MOO.COM, I considered short-long term performance data and other business development/ change to create a new and successful strategy for marketing to design students, also known as "Summer's most important customers", this went on to contribute to the significant growth of the student customer-base and database, YoY, two years in a row
+- As well as executing design-led, cross-department campaigns, I also designed and implemented vertical-specific landing pages that were influenced by the relevant PPC and on-site search terms, SEO bugs and web-merchandising opportunities
 
 
 ## Education
@@ -69,10 +73,10 @@ From my time studying, to my last role, I have always taken an analytical approa
 ## Experience
 
 **Freelance - Radar Radio/ IVAN/ MASESI LDN** (July 2015 - Present)    
-Marketing consultant / Writer
+Marketing & Brand Consultant / Writer
 
 **MOO.COM** (January 2014 - March 2016)    
-International Digital Marketing Associate 
+International Digital Marketing Executive 
 
 **Michael Kors** (November 2012 - October 2013)   
 International Marketing Assistant  
