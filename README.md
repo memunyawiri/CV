@@ -3,7 +3,7 @@
 
 ## Mutsa Munyawiri
 
-Marketer turned Junior Developer. I’m passionate about problem solving, keen to be intellectually challenged and excited to find a role that will allow me to consolidate and extend my programming knowledge. I am a creative and curious individual who really enjoys working within a team, thinking up new ideas as well breaking existing things into little pieces and putting them back together in a more efficient way to make them work better.
+Marketer turned Junior Developer. I’m passionate about problem-solving, keen to be intellectually challenged and excited to find a role that will allow me to consolidate and extend my programming knowledge. I am a creative and curious individual who really enjoys working within a team, thinking up new ideas as well breaking existing things into little pieces and putting them back together in a more efficient way to make them work better.
 
 
 ## Projects
@@ -13,7 +13,7 @@ For a complete list, see my [Github](https://github.com/memunyawiri).
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Commandos](https://github.com/memunyawiri/commandos) | This was my final project at Makers Academy, which I worked on with four other students in my cohort. Commandos is a unique command line tool and learning aid that monitors commands entered into the bash terminal and suggests helpful tips based on the user's activity.| Ruby, Bash, RSpec, Aruba
-| [Love me Tinder](https://github.com/memunyawiri/love-me-tinder) | I spent four days, working within a team of six to create this dating simulator / relationship compatibility game. | Ruby, Rails, Travis CI, PostgreSQL, CSS & Bootstrap, RSpec, JavaScript & Jasmine |
+| [Love me Tinder](https://github.com/memunyawiri/love-me-tinder) | I spent four days, working within a team of six to create this dating simulator/ relationship compatibility game. | Ruby, Rails, Travis CI, PostgreSQL, CSS & Bootstrap, RSpec, JavaScript & Jasmine |
 | [Acebook](https://github.com/memunyawiri/acebook-remote-july-2017) | Our international cohort of 12 programmers from 4 countries working in 2 timezones spent a week making this clone of a popular social media website.  | Ruby/Rails, RSpec, Capybara, Postgres, Devise, AWS S3 |
 | [Chitter](https://github.com/memunyawiri/chitter-challenge) | Following an introduction to creating Sinatra apps, were given a weekend challenge to build a Twitter clone. | Ruby, RSpec, PostgreSQL, Data Mapper, Database Cleaner, Capybara, Sinatra|
 
@@ -36,7 +36,7 @@ I have learnt to meditate, organise and move on and I plan to combine my growing
 
 #### Analytical
 
-From my time studying, to my last role, I have always taken an analytical approach to building strategy, creating & testing and have always considered the range of relevant factors before taking next steps.
+From my time studying to my last role, I have always taken an analytical approach to building strategy, creating & testing and have always considered the range of relevant factors before taking next steps.
 
 **An example of my Analytical skills within a professional environment:**
 
